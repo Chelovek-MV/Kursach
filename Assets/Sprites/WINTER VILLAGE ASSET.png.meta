@@ -1,0 +1,1019 @@
+fileFormatVersion: 2
+guid: 69211b2ba3a512a41882c5196a49c3fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8771424909824894637
+    second: WINTER VILLAGE ASSET_0
+  - first:
+      213: 7376875261536475429
+    second: WINTER VILLAGE ASSET_1
+  - first:
+      213: 4063036962547051329
+    second: WINTER VILLAGE ASSET_2
+  - first:
+      213: -8543202444809426071
+    second: WINTER VILLAGE ASSET_3
+  - first:
+      213: -8666901373147572664
+    second: WINTER VILLAGE ASSET_4
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ba2e8e3a2707980800000000000000
+      internalID: -8543202444809426071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846913ece1bf8b780800000000000000
+      internalID: -8666901373147572664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fbea5173b9e2f458b87eba9cc45b2d
+      internalID: -2005936040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807b9091d5b10bd4abee0e248ae196d5
+      internalID: 848890151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091032bf8c3e8a84a937acc4795967a8
+      internalID: -23758803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c3f0a1e4fe359498ce6c284d3c32da
+      internalID: 1309879050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d665a0e9e2ddb148b72abda4192e5f3
+      internalID: 1254490093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d53df3aaaebab54fa280f68efb6148e
+      internalID: -1933748092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418a11e3556e3694a80471e8e9fc1678
+      internalID: 1161194037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_43
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec5b24de5af12a4c97143b2ba9b76d1
+      internalID: 2020036569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 544
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ca294d49a7f4840a539346946f2397
+      internalID: 875350934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a11be8bd0f200343b1a94a6f525de0a
+      internalID: -887577136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5e44ab1e73abd4681cce399a6289d1
+      internalID: 1253127904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_66
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86a5d513ba1c034c9027cee4c281dc4
+      internalID: 101917944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_67
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2ed0dca85547841a6ec85312c5063c
+      internalID: -1409447334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_68
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b15ab1c35d0084989ac008186a1581
+      internalID: 1433595908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_69
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f4f31b49cb5b047b782e9344bd23c1
+      internalID: 1438098001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_70
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e6c411c4749e948905a7bb0923a33a
+      internalID: -639439028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de44748a54f0a2c439a5be1e664abb07
+      internalID: -1354391707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_90
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e2a2da83ce3e045b7eeea6dd75fdf8
+      internalID: -1244702577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_91
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801f7a5903534e64b8670972e21ff7d0
+      internalID: -655703047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_92
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae67bfe97d7f9349bc4b9ffc78dd46d
+      internalID: -787165330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_93
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd1e477a35f251418f5d4eed8dd1acb
+      internalID: -1917295557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_94
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb821de0d2667241b58f2f9a45730a9
+      internalID: 1453063859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINTER VILLAGE ASSET_326
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 352
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e345b94951a50024db8aa7470ea1454e
+      internalID: -1186358718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8cdd31801c3eed146a1de0ab297c512a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WINTER VILLAGE ASSET_0: -8771424909824894637
+      WINTER VILLAGE ASSET_1: 7376875261536475429
+      WINTER VILLAGE ASSET_10: 998721611
+      WINTER VILLAGE ASSET_100: -1732693474
+      WINTER VILLAGE ASSET_101: -845421076
+      WINTER VILLAGE ASSET_102: -599298608
+      WINTER VILLAGE ASSET_103: 1585569778
+      WINTER VILLAGE ASSET_104: -273142088
+      WINTER VILLAGE ASSET_105: 1201748242
+      WINTER VILLAGE ASSET_106: -734275506
+      WINTER VILLAGE ASSET_107: -920942603
+      WINTER VILLAGE ASSET_108: 1762730203
+      WINTER VILLAGE ASSET_109: -186481383
+      WINTER VILLAGE ASSET_11: 1031001009
+      WINTER VILLAGE ASSET_110: 1343755628
+      WINTER VILLAGE ASSET_111: 764090426
+      WINTER VILLAGE ASSET_112: 1098121741
+      WINTER VILLAGE ASSET_113: -132430246
+      WINTER VILLAGE ASSET_114: 316554309
+      WINTER VILLAGE ASSET_115: 144512758
+      WINTER VILLAGE ASSET_116: 296918472
+      WINTER VILLAGE ASSET_117: -1714000306
+      WINTER VILLAGE ASSET_118: -2136829513
+      WINTER VILLAGE ASSET_119: -690946297
+      WINTER VILLAGE ASSET_12: -1790556603
+      WINTER VILLAGE ASSET_120: 134101549
+      WINTER VILLAGE ASSET_121: 1025563393
+      WINTER VILLAGE ASSET_122: 1631094691
+      WINTER VILLAGE ASSET_123: 295971838
+      WINTER VILLAGE ASSET_124: -1722347358
+      WINTER VILLAGE ASSET_125: 1180410682
+      WINTER VILLAGE ASSET_126: 109334996
+      WINTER VILLAGE ASSET_127: 1949015022
+      WINTER VILLAGE ASSET_128: -2083767742
+      WINTER VILLAGE ASSET_129: 1840588141
+      WINTER VILLAGE ASSET_13: -398477238
+      WINTER VILLAGE ASSET_130: -1962175981
+      WINTER VILLAGE ASSET_131: 341745858
+      WINTER VILLAGE ASSET_132: 1920606085
+      WINTER VILLAGE ASSET_133: 482896908
+      WINTER VILLAGE ASSET_134: -95061020
+      WINTER VILLAGE ASSET_135: -102815104
+      WINTER VILLAGE ASSET_136: 1664258221
+      WINTER VILLAGE ASSET_137: 961957407
+      WINTER VILLAGE ASSET_138: -127107710
+      WINTER VILLAGE ASSET_139: -418663339
+      WINTER VILLAGE ASSET_14: -1788094493
+      WINTER VILLAGE ASSET_140: 2086227064
+      WINTER VILLAGE ASSET_141: 106847798
+      WINTER VILLAGE ASSET_142: 39230598
+      WINTER VILLAGE ASSET_143: -2001635145
+      WINTER VILLAGE ASSET_144: 2065664323
+      WINTER VILLAGE ASSET_145: -1389057950
+      WINTER VILLAGE ASSET_146: -1014006236
+      WINTER VILLAGE ASSET_147: 104464281
+      WINTER VILLAGE ASSET_148: 702296238
+      WINTER VILLAGE ASSET_149: 227714959
+      WINTER VILLAGE ASSET_15: -1352300155
+      WINTER VILLAGE ASSET_150: -15792857
+      WINTER VILLAGE ASSET_151: -2014528394
+      WINTER VILLAGE ASSET_152: -171468696
+      WINTER VILLAGE ASSET_153: 578291114
+      WINTER VILLAGE ASSET_154: -481496708
+      WINTER VILLAGE ASSET_155: -1325130507
+      WINTER VILLAGE ASSET_156: -1846463529
+      WINTER VILLAGE ASSET_157: 180900992
+      WINTER VILLAGE ASSET_158: -1392559708
+      WINTER VILLAGE ASSET_159: -477062069
+      WINTER VILLAGE ASSET_16: 1579823021
+      WINTER VILLAGE ASSET_160: -1273403611
+      WINTER VILLAGE ASSET_161: 1330258929
+      WINTER VILLAGE ASSET_162: -519886724
+      WINTER VILLAGE ASSET_163: -1104543187
+      WINTER VILLAGE ASSET_164: 1743435071
+      WINTER VILLAGE ASSET_165: -2021550543
+      WINTER VILLAGE ASSET_166: -948305802
+      WINTER VILLAGE ASSET_167: -300899447
+      WINTER VILLAGE ASSET_168: -1480448012
+      WINTER VILLAGE ASSET_169: -1726900118
+      WINTER VILLAGE ASSET_17: 739169332
+      WINTER VILLAGE ASSET_170: 309787842
+      WINTER VILLAGE ASSET_171: -966226080
+      WINTER VILLAGE ASSET_172: 1850501429
+      WINTER VILLAGE ASSET_173: 1037797002
+      WINTER VILLAGE ASSET_174: 202680471
+      WINTER VILLAGE ASSET_175: -136213103
+      WINTER VILLAGE ASSET_176: 877529326
+      WINTER VILLAGE ASSET_177: -398303150
+      WINTER VILLAGE ASSET_178: -1016974838
+      WINTER VILLAGE ASSET_179: -1561297603
+      WINTER VILLAGE ASSET_18: -2005936040
+      WINTER VILLAGE ASSET_180: -1947496465
+      WINTER VILLAGE ASSET_181: -1387749565
+      WINTER VILLAGE ASSET_182: -865174032
+      WINTER VILLAGE ASSET_183: 1555073346
+      WINTER VILLAGE ASSET_184: -857251934
+      WINTER VILLAGE ASSET_185: -408807053
+      WINTER VILLAGE ASSET_186: 1410542382
+      WINTER VILLAGE ASSET_187: 484566001
+      WINTER VILLAGE ASSET_188: 600417957
+      WINTER VILLAGE ASSET_189: 1709315369
+      WINTER VILLAGE ASSET_19: 848890151
+      WINTER VILLAGE ASSET_190: -1175400735
+      WINTER VILLAGE ASSET_191: 1768312217
+      WINTER VILLAGE ASSET_192: 989082676
+      WINTER VILLAGE ASSET_193: -139304031
+      WINTER VILLAGE ASSET_194: 1830057617
+      WINTER VILLAGE ASSET_195: -195097226
+      WINTER VILLAGE ASSET_196: 982732252
+      WINTER VILLAGE ASSET_197: -933923995
+      WINTER VILLAGE ASSET_198: 944552042
+      WINTER VILLAGE ASSET_199: 1584024519
+      WINTER VILLAGE ASSET_2: 4063036962547051329
+      WINTER VILLAGE ASSET_20: -23758803
+      WINTER VILLAGE ASSET_200: -1171056043
+      WINTER VILLAGE ASSET_201: -1791806535
+      WINTER VILLAGE ASSET_202: 1730912014
+      WINTER VILLAGE ASSET_203: -1666040242
+      WINTER VILLAGE ASSET_204: 1509770631
+      WINTER VILLAGE ASSET_205: -890011941
+      WINTER VILLAGE ASSET_206: -751752693
+      WINTER VILLAGE ASSET_207: 1927942565
+      WINTER VILLAGE ASSET_208: -417968296
+      WINTER VILLAGE ASSET_209: -1721947836
+      WINTER VILLAGE ASSET_21: 1309879050
+      WINTER VILLAGE ASSET_210: -465793751
+      WINTER VILLAGE ASSET_211: 19219581
+      WINTER VILLAGE ASSET_212: 1767096083
+      WINTER VILLAGE ASSET_213: -425914372
+      WINTER VILLAGE ASSET_214: -1070761796
+      WINTER VILLAGE ASSET_215: 466024923
+      WINTER VILLAGE ASSET_216: -1845481981
+      WINTER VILLAGE ASSET_217: -840577906
+      WINTER VILLAGE ASSET_218: -231431387
+      WINTER VILLAGE ASSET_219: -2136115949
+      WINTER VILLAGE ASSET_22: 1175359362
+      WINTER VILLAGE ASSET_220: -771040013
+      WINTER VILLAGE ASSET_221: -1078793162
+      WINTER VILLAGE ASSET_222: 1495837193
+      WINTER VILLAGE ASSET_223: -201332489
+      WINTER VILLAGE ASSET_224: 260360246
+      WINTER VILLAGE ASSET_225: -1008951517
+      WINTER VILLAGE ASSET_226: 67755911
+      WINTER VILLAGE ASSET_227: 775627215
+      WINTER VILLAGE ASSET_228: 148367903
+      WINTER VILLAGE ASSET_229: -1319515966
+      WINTER VILLAGE ASSET_23: -1189840783
+      WINTER VILLAGE ASSET_230: -377394770
+      WINTER VILLAGE ASSET_231: -1141786237
+      WINTER VILLAGE ASSET_232: 1722995582
+      WINTER VILLAGE ASSET_233: -69427355
+      WINTER VILLAGE ASSET_234: 1717595401
+      WINTER VILLAGE ASSET_235: 294495501
+      WINTER VILLAGE ASSET_236: -1849438298
+      WINTER VILLAGE ASSET_237: -668089323
+      WINTER VILLAGE ASSET_238: 1798041735
+      WINTER VILLAGE ASSET_239: -1765476164
+      WINTER VILLAGE ASSET_24: 2124985857
+      WINTER VILLAGE ASSET_240: -2094228359
+      WINTER VILLAGE ASSET_241: -1937142666
+      WINTER VILLAGE ASSET_242: 1672287409
+      WINTER VILLAGE ASSET_243: 229872054
+      WINTER VILLAGE ASSET_244: 862410852
+      WINTER VILLAGE ASSET_245: 1993842550
+      WINTER VILLAGE ASSET_246: 1948482630
+      WINTER VILLAGE ASSET_247: 671667105
+      WINTER VILLAGE ASSET_248: 1550879804
+      WINTER VILLAGE ASSET_249: -1525465817
+      WINTER VILLAGE ASSET_25: 1071915635
+      WINTER VILLAGE ASSET_250: -1476386415
+      WINTER VILLAGE ASSET_251: 795279553
+      WINTER VILLAGE ASSET_252: -1619723513
+      WINTER VILLAGE ASSET_253: -1503134848
+      WINTER VILLAGE ASSET_254: 1412025109
+      WINTER VILLAGE ASSET_255: -1026202289
+      WINTER VILLAGE ASSET_256: -120757857
+      WINTER VILLAGE ASSET_257: -857362341
+      WINTER VILLAGE ASSET_258: -409009740
+      WINTER VILLAGE ASSET_259: -1115051160
+      WINTER VILLAGE ASSET_26: 1548980724
+      WINTER VILLAGE ASSET_260: 46378790
+      WINTER VILLAGE ASSET_261: -1323185545
+      WINTER VILLAGE ASSET_262: 1294454074
+      WINTER VILLAGE ASSET_263: -1894380636
+      WINTER VILLAGE ASSET_264: 782579789
+      WINTER VILLAGE ASSET_265: -518349778
+      WINTER VILLAGE ASSET_266: -1208477829
+      WINTER VILLAGE ASSET_267: -1480806686
+      WINTER VILLAGE ASSET_268: 1605739994
+      WINTER VILLAGE ASSET_269: 1874761293
+      WINTER VILLAGE ASSET_27: 1254490093
+      WINTER VILLAGE ASSET_270: -13085123
+      WINTER VILLAGE ASSET_271: 642326223
+      WINTER VILLAGE ASSET_272: -2028279018
+      WINTER VILLAGE ASSET_273: 769623794
+      WINTER VILLAGE ASSET_274: -835011127
+      WINTER VILLAGE ASSET_275: 1228603432
+      WINTER VILLAGE ASSET_276: -619654759
+      WINTER VILLAGE ASSET_277: -1537954639
+      WINTER VILLAGE ASSET_278: 1046965235
+      WINTER VILLAGE ASSET_279: 786230145
+      WINTER VILLAGE ASSET_28: -1933748092
+      WINTER VILLAGE ASSET_280: -458267902
+      WINTER VILLAGE ASSET_281: 491083324
+      WINTER VILLAGE ASSET_282: -1528141365
+      WINTER VILLAGE ASSET_283: 2056361973
+      WINTER VILLAGE ASSET_284: 1269252190
+      WINTER VILLAGE ASSET_285: -962955908
+      WINTER VILLAGE ASSET_286: -983558512
+      WINTER VILLAGE ASSET_287: -1108174893
+      WINTER VILLAGE ASSET_288: -489698343
+      WINTER VILLAGE ASSET_289: -848787406
+      WINTER VILLAGE ASSET_29: -2000509609
+      WINTER VILLAGE ASSET_290: -2013348054
+      WINTER VILLAGE ASSET_291: -1570955756
+      WINTER VILLAGE ASSET_292: 237249933
+      WINTER VILLAGE ASSET_293: -1574358781
+      WINTER VILLAGE ASSET_294: -1039644798
+      WINTER VILLAGE ASSET_295: -296810874
+      WINTER VILLAGE ASSET_296: 668949493
+      WINTER VILLAGE ASSET_297: -107584972
+      WINTER VILLAGE ASSET_298: -850548072
+      WINTER VILLAGE ASSET_299: -2013126665
+      WINTER VILLAGE ASSET_3: -8543202444809426071
+      WINTER VILLAGE ASSET_30: -419099578
+      WINTER VILLAGE ASSET_300: -1262303875
+      WINTER VILLAGE ASSET_301: -318224814
+      WINTER VILLAGE ASSET_302: 1646687351
+      WINTER VILLAGE ASSET_303: 1057640003
+      WINTER VILLAGE ASSET_304: -543021361
+      WINTER VILLAGE ASSET_305: 656676615
+      WINTER VILLAGE ASSET_306: 1146039742
+      WINTER VILLAGE ASSET_307: 1958349130
+      WINTER VILLAGE ASSET_308: 487458261
+      WINTER VILLAGE ASSET_309: -320059248
+      WINTER VILLAGE ASSET_31: 671018984
+      WINTER VILLAGE ASSET_310: 2147169639
+      WINTER VILLAGE ASSET_311: -973095222
+      WINTER VILLAGE ASSET_312: 754473535
+      WINTER VILLAGE ASSET_313: 1682215389
+      WINTER VILLAGE ASSET_314: 1182459701
+      WINTER VILLAGE ASSET_315: 2041322781
+      WINTER VILLAGE ASSET_316: 1411878510
+      WINTER VILLAGE ASSET_317: 579406576
+      WINTER VILLAGE ASSET_318: 506265999
+      WINTER VILLAGE ASSET_319: 763181115
+      WINTER VILLAGE ASSET_32: 407839836
+      WINTER VILLAGE ASSET_320: -69956375
+      WINTER VILLAGE ASSET_321: -493623609
+      WINTER VILLAGE ASSET_322: -727117785
+      WINTER VILLAGE ASSET_323: 1616388068
+      WINTER VILLAGE ASSET_324: 1753954172
+      WINTER VILLAGE ASSET_325: 1590640089
+      WINTER VILLAGE ASSET_326: -1186358718
+      WINTER VILLAGE ASSET_327: -285270062
+      WINTER VILLAGE ASSET_328: -155434290
+      WINTER VILLAGE ASSET_329: 1909373449
+      WINTER VILLAGE ASSET_33: -176019893
+      WINTER VILLAGE ASSET_330: 1839613837
+      WINTER VILLAGE ASSET_331: -1891903972
+      WINTER VILLAGE ASSET_332: -1668889453
+      WINTER VILLAGE ASSET_333: 1863266987
+      WINTER VILLAGE ASSET_334: -1224936835
+      WINTER VILLAGE ASSET_335: -122221343
+      WINTER VILLAGE ASSET_336: 2000227675
+      WINTER VILLAGE ASSET_34: -519799727
+      WINTER VILLAGE ASSET_35: -1414920546
+      WINTER VILLAGE ASSET_36: 1078020219
+      WINTER VILLAGE ASSET_37: -1519930050
+      WINTER VILLAGE ASSET_38: -785315184
+      WINTER VILLAGE ASSET_39: 624538167
+      WINTER VILLAGE ASSET_4: -8666901373147572664
+      WINTER VILLAGE ASSET_40: 9288826
+      WINTER VILLAGE ASSET_41: 1745987063
+      WINTER VILLAGE ASSET_42: 1161194037
+      WINTER VILLAGE ASSET_43: 2020036569
+      WINTER VILLAGE ASSET_44: 875350934
+      WINTER VILLAGE ASSET_45: 626199444
+      WINTER VILLAGE ASSET_46: -172999376
+      WINTER VILLAGE ASSET_47: -1748265899
+      WINTER VILLAGE ASSET_48: -1703603869
+      WINTER VILLAGE ASSET_49: -1389293305
+      WINTER VILLAGE ASSET_5: 1559452877
+      WINTER VILLAGE ASSET_50: 1938754664
+      WINTER VILLAGE ASSET_51: -887577136
+      WINTER VILLAGE ASSET_52: -1346388264
+      WINTER VILLAGE ASSET_53: -1828775000
+      WINTER VILLAGE ASSET_54: -1590407874
+      WINTER VILLAGE ASSET_55: 1152856842
+      WINTER VILLAGE ASSET_56: 1748279904
+      WINTER VILLAGE ASSET_57: -1777530757
+      WINTER VILLAGE ASSET_58: -244069790
+      WINTER VILLAGE ASSET_59: 2139596564
+      WINTER VILLAGE ASSET_6: 601935806
+      WINTER VILLAGE ASSET_60: 603919618
+      WINTER VILLAGE ASSET_61: 1734912399
+      WINTER VILLAGE ASSET_62: -1286628578
+      WINTER VILLAGE ASSET_63: -963597769
+      WINTER VILLAGE ASSET_64: -856164656
+      WINTER VILLAGE ASSET_65: 1253127904
+      WINTER VILLAGE ASSET_66: 101917944
+      WINTER VILLAGE ASSET_67: -1409447334
+      WINTER VILLAGE ASSET_68: 1433595908
+      WINTER VILLAGE ASSET_69: 1438098001
+      WINTER VILLAGE ASSET_7: -1651041239
+      WINTER VILLAGE ASSET_70: -639439028
+      WINTER VILLAGE ASSET_71: -1537570480
+      WINTER VILLAGE ASSET_72: -725728891
+      WINTER VILLAGE ASSET_73: 621782982
+      WINTER VILLAGE ASSET_74: -722484881
+      WINTER VILLAGE ASSET_75: -449218247
+      WINTER VILLAGE ASSET_76: -2074492884
+      WINTER VILLAGE ASSET_77: -380033478
+      WINTER VILLAGE ASSET_78: 1914706356
+      WINTER VILLAGE ASSET_79: -1097054858
+      WINTER VILLAGE ASSET_8: -1311330924
+      WINTER VILLAGE ASSET_80: -764877980
+      WINTER VILLAGE ASSET_81: 242920460
+      WINTER VILLAGE ASSET_82: -633077243
+      WINTER VILLAGE ASSET_83: -1607690929
+      WINTER VILLAGE ASSET_84: 1599196201
+      WINTER VILLAGE ASSET_85: -581313115
+      WINTER VILLAGE ASSET_86: -1233097467
+      WINTER VILLAGE ASSET_87: -251558150
+      WINTER VILLAGE ASSET_88: -1735942035
+      WINTER VILLAGE ASSET_89: -1354391707
+      WINTER VILLAGE ASSET_9: -1193184201
+      WINTER VILLAGE ASSET_90: -1244702577
+      WINTER VILLAGE ASSET_91: -655703047
+      WINTER VILLAGE ASSET_92: -787165330
+      WINTER VILLAGE ASSET_93: -1917295557
+      WINTER VILLAGE ASSET_94: 1453063859
+      WINTER VILLAGE ASSET_95: 151660423
+      WINTER VILLAGE ASSET_96: -2101745164
+      WINTER VILLAGE ASSET_97: 1461262431
+      WINTER VILLAGE ASSET_98: 944598915
+      WINTER VILLAGE ASSET_99: 2137900948
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
